@@ -18,7 +18,7 @@ A web-based Online Examination System built using Python and Django, featuring r
 - SQLite (default DB, can be upgraded)
 - HTML/CSS/JavaScript (for frontend)
 
-## 🚀 Getting Started
+## 🚀 How to run
 
 ```bash
 git clone https://github.com/Krishna23-IT/Online-Examination-System.git
